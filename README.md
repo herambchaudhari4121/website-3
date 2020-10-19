@@ -50,5 +50,5 @@ of `/etc/nginx/sites-available/default`:
       root /usr/local/src/website;
     }
 
-Make sure the path to the website's code correct.
+Make sure the path to the website's code is correct or not .
 
